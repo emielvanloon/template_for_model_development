@@ -1,7 +1,7 @@
 # Introduction
 This folder contains data files we use in code development.
 The subfolder ./original/ contains original data and these files should be set to read-only.
-Te subfolder ./derived/ contains derived data and aritificial data, that can be (re)created via scripts.
+The subfolder ./derived/ contains derived data and synthetic data, that can be (re)created via scripts.
 
 # Every data file gets an entry in this readme
 Prpovide for each data file (both the original data and the derived data) a complete description of what the data file contains.
