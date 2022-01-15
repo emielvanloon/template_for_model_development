@@ -1,4 +1,4 @@
-<!--This is an example of how a logbook can look like -->
+Below is an example of how a logbook can look like: ...
 
 # Introduction
 
